@@ -3,7 +3,15 @@ This repository contains a program that detects anomalies using Long Short-Term 
 
 The program is designed to work on three different datasets. The details of these datasets are not provided in the excerpt, but they could be any time-series data where anomaly detection is required.
 
-Model used: LSTM / 1DCNN 
+**Model Used:** LSTM / 1DCNN
+
+This repository utilizes the LSTM and 1DCNN models for anomaly detection. These models are commonly used in time series analysis and have proven to be effective in detecting anomalies. The LSTM (Long Short-Term Memory) model is a type of recurrent neural network that can capture long-term dependencies in sequential data. The 1DCNN (1-Dimensional Convolutional Neural Network) model applies convolutional operations to extract features from the input data.
+
+Both models are implemented and evaluated in this repository to detect anomalies in time series datasets. The specific details of the implementation and training process can be found in the code and documentation.
+
+**Data Set Used:** GE.csv (random time series data)
+
+This repository utilizes the GE.csv dataset for anomaly detection using Long Short-Term Memory (LSTM) networks. The GE.csv dataset represents a time series data that can be used to train and evaluate the LSTM model for anomaly detection purposes.
 
 TensorFlow: The command installs the TensorFlow library, which is an open-source machine learning framework. TensorFlow provides a wide range of tools and resources for building and deploying machine learning models.
 
