@@ -20,9 +20,15 @@ scikit-learn: scikit-learn is a machine learning library that provides a wide ra
 sweetviz: sweetviz is a Python library for visualizing and analyzing datasets. It generates detailed and informative visual and statistical reports for exploratory data analysis. sweetviz provides a quick and easy way to gain insights into the structure and characteristics of a dataset.
 
 TensorFlow: `pip install tensorflow`
+
 Seaborn: `pip install seaborn`
+
 Pandas: `pip install pandas`
+
 NumPy: `pip install numpy`
+
 Matplotlib: `pip install matplotlib`
+
 scikit-learn: `pip install scikit-learn`
+
 sweetviz: `pip install sweetviz`
